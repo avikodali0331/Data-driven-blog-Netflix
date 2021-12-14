@@ -1,7 +1,7 @@
 # Data Driven Blog: Netflix
 This is an analysis of Netflix data from Kaggle using R, done for my Data 101 course in the Fall 2021 semester. The task was to analyze a dataset found on the internet from a reputable source and then write a blog on that analysis. 
 
-Below, you will find my blog:  
+Below, you will find my blog, and I have also included my R code in this repository:  
 
 
   My name is Avi Kodali, and I am a freshman majoring in Statistics, and minoring in Computer Science. I enjoy analyzing large datasets to squeeze out any useful insights and information and transforming that insight into solutions. As such, I aspire to be a data scientist. 
