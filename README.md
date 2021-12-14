@@ -1,4 +1,4 @@
-# Data Driven Blog: Netflix
+# Data-Driven Blog: Netflix
 This is an analysis of Netflix data from Kaggle using R, done for my Data 101 course in the Fall 2021 semester. The task was to analyze a dataset found on the internet from a reputable source and then write a blog on that analysis. 
 
 Below, you will find my blog, and I have also included my R code in this repository:  
